@@ -11,7 +11,7 @@ namespace HouseRentingSystem.Tests.UnitTests
         [OneTimeSetUp]
         public void SetUp()
             => this.agentService = new AgentService(this.data);
-        // test for agent ID
+        // test for agent-ID
         [Test]
         public void GetAgentId_ShouldReturnCorrectUserId()
         {
