@@ -1,0 +1,112 @@
+########################################
+# Visual Studio
+########################################
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+*.vspscc
+*.vssscc
+*.ncb
+*.cache
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.tlog
+*.sbr
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+## Visual Studio working folder
+.vs/
+
+## MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## NUGET packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## Rider project files
+.idea/
+
+## Others
+*.dbmdl
+*.bak
+*.tmp
+
+########################################
+# Visual Studio Code
+########################################
+.vscode/
+.history/
+.code-workspace
+
+########################################
+# OS generated files
+########################################
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Linux
+*~
+.nfs*
+
+########################################
+# Optional: C#, ASP.NET, etc.
+########################################
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish directory
+publish/
+out/
+
+########################################
+# Logs
+########################################
+*.log
+*.stackdump
+
+########################################
+# Node.js (ако имаш JS/TS файлове)
+########################################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+########################################
+# Python (ако има скриптове)
+########################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
